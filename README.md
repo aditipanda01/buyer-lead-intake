@@ -289,10 +289,5 @@ NEXTAUTH_URL=https://your-domain.com
 5. Ensure all tests pass
 6. Submit a pull request
 
-## License
 
-This project is licensed under the MIT License.
 
-## Support
-
-For support or questions, please open an issue in the GitHub repository.
